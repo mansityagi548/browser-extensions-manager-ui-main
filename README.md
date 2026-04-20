@@ -5,11 +5,7 @@ A clean, modern dashboard interface designed for managing browser extensions. Th
 
 Toggle Switches: Functional-style UI components for enabling/disabling extensions.
 
-
 Responsive Design: Fully optimized for both desktop and mobile viewing.
-
-
-Categorized Lists: Organized layout for "My Extensions" and "Discovery" sections.
 
 Modern UI: Uses a dark-themed aesthetic with consistent spacing and typography.
 
