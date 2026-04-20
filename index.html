@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Browser-extension</title>
+   <link rel="stylesheet" href="style/style.css">
+</head>
+
+<body>
+   <header class="extension">
+      <img src="icons/logo.svg" alt="Extension board">
+      <button class="mode">
+         <img src="icons/icon-sun.svg" alt="LightMode" id="lightone">
+         <img src="icons/icon-moon.svg" alt="DarkMode" id="darkone">
+      </button>
+   </header>
+
+   <main class="content">
+      <section class="list_order">
+         <h1 id="name">Extensions List</h1>
+
+         <div class="activity">
+            <button id="all"  class="filter-btn active" data-filter="all">All</button>
+            <button id="active"  class="filter-btn " data-filter="active">Active</button>
+            <button id="inactive"  class="filter-btn " data-filter="inactive">Inactive</button>
+         </div>
+      </section>
+
+      <section class="extensions-grid"> </section>
+   </main>
+    <script type="module" src="script/script.js" ></script>
+</body>
+</html>
