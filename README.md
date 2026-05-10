@@ -1,5 +1,15 @@
-Browser Extensions Manager UI
+Browser Extensions Manager UI : 
+
 A clean, modern dashboard interface designed for managing browser extensions. This project focuses on high-quality UI/UX, featuring a toggle-based system and a responsive layout built with semantic HTML and CSS.
+__________________________________________________________________________________________________________________________________
+Live Demo : 
+
+Live site : [# https://mansityagi548.github.io/browser-extensions-manager-ui-main/]
+
+Preview 
+![Preview](preview/Extension-ui.png)
+
+__________________________________________________________________________________________________________________________________
 
 ✨ Features
 
@@ -9,6 +19,8 @@ Responsive Design: Fully optimized for both desktop and mobile viewing.
 
 Modern UI: Uses a dark-themed aesthetic with consistent spacing and typography.
 
+__________________________________________________________________________________________________________________________________
+
 
 🛠️ Tech Stack
 
@@ -17,6 +29,8 @@ HTML5: Semantic structure for accessibility.
 CSS3: Custom properties (variables), Flexbox for alignment, and Media Queries for responsiveness.
 
 JavaScript: Logic for handling toggle states and UI interactions.
+
+__________________________________________________________________________________________________________________________________
 
 🧠 Technical Highlights
 
